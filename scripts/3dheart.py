@@ -39,7 +39,7 @@ ax.plot_trisurf(verts[:, 0], verts[:,1], faces, verts[:, 2],
 ax.view_init(15, -15)
 
 # ax.set_title(u"Made with ❤ (and Python)", fontsize=15) # if you have Python 3
-ax.set_title("Made with <3 (and Python)", fontsize=15)
+ax.set_title("3d heart for zyz", fontsize=15)
 
 # Show me some love ^^
 plt.show()
