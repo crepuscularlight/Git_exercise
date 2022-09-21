@@ -60,3 +60,4 @@ car.end_fill()
   
    
 car.hideturtle()
+turtle.getscreen()._root.mainloop()
