@@ -12,6 +12,6 @@ y = 13 * np.cos(theta) - 5* np.cos(2*theta) - 2 * np.cos(3*theta) - np.cos(4*the
 
 # Plotting
 plt.plot(x, y)
-plt.title('Heart Shape')
+plt.title('Heart Shape for yzy')
 plt.show()
 
